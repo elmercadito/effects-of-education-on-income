@@ -1,3 +1,5 @@
+The following contains a list of the R packages used in this project:
+
 tidyverse
 haven
 dplyr
